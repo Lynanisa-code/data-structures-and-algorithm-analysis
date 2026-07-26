@@ -78,13 +78,13 @@ public class PlaylistRekursif {
     }
 
     public static void main(String[] args) {
-        // Data Playlist Musik (5 lagu)
+        // Data Playlist Musik (10 lagu)
         Lagu[] playlist = new Lagu[] {
             new Lagu("Perfect", "Ed Sheeran", 4.23),
             new Lagu("Shivers", "Ed Sheeran", 3.50),
             new Lagu("Fix You", "Coldplay", 4.23),
             new Lagu("Speak Now", "Taylor Swift", 4.06),
-            new Lagu("Enchanted", "Taylow Swift", 5.57),
+            new Lagu("Enchanted", "Taylor Swift", 5.57),
             new Lagu("Night Changes", "One Direction", 4.01),
             new Lagu("Story of My Life", "One Direction", 4.05),
             new Lagu("Perfect", "One Direction", 3.50),
